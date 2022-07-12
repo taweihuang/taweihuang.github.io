@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ta-Wei Huang</title>
-    <link>https://taweihuang.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Ta-Wei Huang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://taweihuang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

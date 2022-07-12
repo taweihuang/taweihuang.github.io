@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ta-Wei Huang</title>
-    <link>https://taweihuang.github.io/</link>
+    <link>/</link>
     <description>Recent content on Ta-Wei Huang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://taweihuang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://taweihuang.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taweihuang.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>I am a doctoral candidate in the Marketing Unit at Harvard Business School. My research focuses on accurate, fair, and privacy-preserving methods in customer relationship management. Before HBS, I served as a data team lead at Migo.tv and a consultant at Mastercard Data &amp;amp; Services (formerly Applied Predictive Technologies). In particular, I worked on data science projects in customer lifecycle management, experience personalization, and business experimentation. My clients ranged from Fortune 100 companies and tech start-ups.</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://taweihuang.github.io/cv/</link>
+      <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taweihuang.github.io/cv/</guid>
+      <guid>/cv/</guid>
       <description>Education     PhD in Marketing, Harvard Business School, 2020 - 2025 (Expected) MS in Statistics, National Taiwan University, 2017 BS in Quantitative Finance, National Tsing Hua University, 2015  Research Interest     Customer Relationship Management, Targeting, Marketing Experimentation Causal Inference, Algorithmic Stability, Privacy &amp;amp; Fairness  Conference Presentation     ISMS Marketing Science Conference, June 2022 American Causal Inference Conference, May 2022  Seminar Talk     Marketing Seminar, Harvard Business School, May 2022 Digital Doctoral Workshop, Harvard Business School, March 2022 Seminar of Service Science, National Tsing Hua University, December 2020  Industry Experience     Data Team Lead, Migo.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://taweihuang.github.io/teaching/</link>
+      <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://taweihuang.github.io/teaching/</guid>
+      <guid>/teaching/</guid>
       <description>R and Business Analytics      Paid Student: 1690 Review: 4.9 / 5.0     Topics Case Study     Introduction    Basic R Programming    Tidy Data, Data Transformation, and Integration Stock Price Data Exploration   Interactive Data Visualization Food Supplier Demand Planning   A/B Testing and Online Experimentation E-Commerce UI Optimization   Principal Component Analysis Financial Data Analytics   Cluster Analysis Mobile Game User Profiling   Linear Regression Restaurant Sales Attribution   Logistic Regression Airline Customer Loyalty Analytics   Decision and Regression Tree Restaurant and Airline Case Revisit    Data-informed Prodduct Strategy     Paid Student: 1633 Review: 4.</description>
     </item>
     
